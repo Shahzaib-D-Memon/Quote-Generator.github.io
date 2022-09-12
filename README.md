@@ -1,1 +1,1 @@
-# quote-generator.github.io
+# Quote-Generator.github.io
